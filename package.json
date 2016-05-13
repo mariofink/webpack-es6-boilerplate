@@ -7,6 +7,10 @@
         "watch": "./node_modules/webpack/bin/webpack.js --watch",
         "devserver": "./node_modules/webpack-dev-server/bin/webpack-dev-server.js --inline --hot --content-base app"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mariofink/webpack-es6-boilerplate"
+    },
     "keywords": [
         "webpack",
         "es6",
