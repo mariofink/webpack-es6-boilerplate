@@ -22,3 +22,7 @@ Write ES6/ES2015 code and compile to ES5 via webpack.
 ```
 npm run watch
 ```
+or use webpack-dev-server
+```
+npm run devserver
+```
