@@ -5,7 +5,7 @@ This boilerplate proudly does **NOT** depend on the following:
 * React
 * AngularJS
 * Ember
-* <insert other fancy framework>
+* …insert other fancy framework…
 
 Only [webpack](http://webpack.github.io/) and [Babel](http://babeljs.io/) are required.
 
