@@ -1,12 +1,12 @@
 # Webpack ES6/ES2015 Boilerplate
-Write ES6/ES2015 code and compile to ES5 via Webpack.
+Write ES6/ES2015 code and compile to ES5 via webpack.
 
 ## Files & Directories
 ```
     .
     |-- app
     |   |-- scripts
-    |   |   |-- dist (Webpack will put the compiled files into this directory - not in repository)
+    |   |   |-- dist (webpack will put the compiled files into this directory - not in repository)
     |   |   |   |-- bundle.js (webpack bundle output - not in repository)
     |   |   |   `-- bundle.js.map (source map - not in repository)
     |   |   `-- src
