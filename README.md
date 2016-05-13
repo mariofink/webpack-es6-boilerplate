@@ -9,6 +9,12 @@ This boilerplate proudly does **NOT** depend on the following:
 
 Only [webpack](http://webpack.github.io/) and [Babel](http://babeljs.io/) are required.
 
+## Getting started
+After getting the source code, you first need to fetch the dependencies defined in package.json by running
+```
+npm install
+```
+
 ## Files & Directories
 ```
     .
