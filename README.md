@@ -1,6 +1,14 @@
 # Webpack ES6/ES2015 Boilerplate
 Write ES6/ES2015 code and compile to ES5 via webpack.
 
+This boilerplate proudly does **NOT** depend on the following:
+* React
+* AngularJS
+* Ember
+* <insert other fancy framework>
+
+Only [webpack](http://webpack.github.io/) and [Babel](http://babeljs.io/) are required.
+
 ## Files & Directories
 ```
     .
@@ -22,7 +30,7 @@ Write ES6/ES2015 code and compile to ES5 via webpack.
 ```
 npm run watch
 ```
-or use webpack-dev-server
+or use webpack-dev-server (with hot module replacement enabled)
 ```
 npm run devserver
 ```
