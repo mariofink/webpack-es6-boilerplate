@@ -15,6 +15,11 @@ After getting the source code, you first need to fetch the dependencies defined 
 npm install
 ```
 
+You can then bundle the example files under **app/scripts/src** into **app/scripts/dist/bundle.js** by running
+```
+npm run build
+```
+
 ## Files & Directories
 ```
     .
