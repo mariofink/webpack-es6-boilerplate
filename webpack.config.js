@@ -20,7 +20,7 @@ module.exports = {
     },
     plugins: [
         // Avoid publishing files when compilation fails
-        new webpack.NoErrorsPlugin()
+        new webpack.NoEmitOnErrorsPlugin()
     ],
     stats: {
         colors: true
